@@ -1,4 +1,4 @@
-# Java-Map-Framework-Practical-Examples
+# Java-Map-Interface-Practical-Examples
 Welcome to the Java Map Framework Practical Examples repository! This repository contains a set of practical examples demonstrating the usage of the Map framework in Java.
 
 What is the Map Framework?
